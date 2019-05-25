@@ -9,6 +9,6 @@ Do following steps to run the code
 
 Note: Pavia_IC1, Pavia_IC2, Pavia_IC3 are the EP feature produced by code in 
 'https://www.dropbox.com/s/bwod827n55i29ox/EP%20executable.rar?dl=0'. While, Pavia_IC1_PCA, Pavia_IC2_PCA, Pavia_IC3_PCA are the files
-processed by principal component analysis. The first three component are used .
+processed by principal component analysis. The first three components are used .
 
 wrriten by Nanjun He(henanjun@hnu.edu.cn)
